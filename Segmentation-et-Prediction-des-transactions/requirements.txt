@@ -1,0 +1,9 @@
+pandas
+json5
+matplotlib
+plotly
+dash
+dash-core-components
+dash-html-components
+faker
+notebook
